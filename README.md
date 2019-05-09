@@ -9,8 +9,6 @@ This is where I hope to store some python scripts I'm working on. Unfortunately,
 Pyrseas
 =======
 
-.. image:: https://circleci.com/gh/DevotedHealth/Pyrseas/tree/master.svg?style=svg
-    :target: https://circleci.com/gh/DevotedHealth/Pyrseas/tree/master
     
 Pyrseas provides utilities to describe a PostgreSQL database schema as
 YAML, to verify the schema against the same or a different database
